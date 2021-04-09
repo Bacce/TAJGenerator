@@ -1,0 +1,11 @@
+{
+  "name": "taj_generator",
+  "version": "1.0.0",
+  "description": "TAJ Generator - Generate all the possible Hungarian National Insurrance numbers. I don't know why, I was bored I think.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bacce",
+  "license": "ISC"
+}
